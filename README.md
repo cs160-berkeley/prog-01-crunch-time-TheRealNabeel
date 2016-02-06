@@ -20,7 +20,7 @@ Nabeel Saleem ([nabeelsaleem@berkeley.edu](mailto:nabeelsaleem@berkeley.edu))
 
 ## Demo Video
 
-See [Exercise for Lyfe] (https://link_to_your_video)
+See [Crunch Time] (https://www.youtube.com/watch?v=x-WJ6A_MvN8&feature=youtu.be)
 
 ## Screenshots
 
