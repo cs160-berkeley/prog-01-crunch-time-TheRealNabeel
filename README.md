@@ -12,6 +12,8 @@ Now let’s try a different exercise. Let’s input 20 minutes of jumping jacks 
 
 20 minutes of jumping jacks burns 200 calories, and is equivalent to 24 mins of jogging, 400 situps, and 700 pushups. Don’t forget to press RESET before inputting different values.
 
+The PDF writeup describes everything in more detail with a series of screenshots that describe the interaction.
+
 My app also works in both portrait and landscape modes.
 
 ## Authors
@@ -24,5 +26,6 @@ See [Crunch Time] (https://www.youtube.com/watch?v=x-WJ6A_MvN8&feature=youtu.be)
 
 ## Screenshots
 
-Screenshots can be found in my PDF writeup.
+<img src ="screenshots/crunch time.png" height="400" alt="Screenshot"/>
 
+More screenshots can be found in my PDF writeup.
