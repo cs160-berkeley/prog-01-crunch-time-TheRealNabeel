@@ -1,6 +1,6 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+My app is a calorie converter app which takes in 4 exercises: pushups, situps, jumping jacks, and jogging. Users can input the number (labelled either reps or minutes depending on the exercise) of one of these exercises that they have done and it will not only thell them the amount of calories that they have burned, but also the equivalent of this exercise in terms of the other exercises. So for example, 175 pushups burns 50 calories and is equivalent to 100 situps, 5 minutes of jumping jacks, and 6 minutes of jogging. More information can be found in my PDF writeup.
 
 ## Authors
 
@@ -8,15 +8,9 @@ Nabeel Saleem ([nabeelsaleem@berkeley.edu](mailto:nabeelsaleem@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [Exercise for Lyfe] (https://link_to_your_video)
 
 ## Screenshots
 
 <img src="screenshots/main.png" height="400" alt="Screenshot"/>
 
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Any other support
-
-*Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/).
