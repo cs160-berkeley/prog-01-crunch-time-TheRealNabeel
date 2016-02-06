@@ -24,5 +24,5 @@ See [Exercise for Lyfe] (https://link_to_your_video)
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
+Screenshots can be found in my PDF writeup.
 
