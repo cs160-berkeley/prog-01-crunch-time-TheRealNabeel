@@ -26,6 +26,6 @@ See [Crunch Time] (https://www.youtube.com/watch?v=x-WJ6A_MvN8&feature=youtu.be)
 
 ## Screenshots
 
-<img src ="screenshots/crunch time.png" height="400" alt="Screenshot"/>
+<img src="screenshots/Crunch Time.png" height="400" alt="Screenshot"/>
 
 More screenshots can be found in my PDF writeup.
