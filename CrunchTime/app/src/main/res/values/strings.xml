@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Crunch Time</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Enter</string>
+    <string name="reps">Reps</string>
+    <string name="mins">Mins</string>
+    <string name="pushups">Pushups (reps)</string>
+    <string name="situps">Situps (reps)</string>
+    <string name="jumpingjacks">Jumping Jacks (mins)</string>
+    <string name="jogging">Jogging (mins)</string>
+    <string name="action_settings">Settings</string>
+</resources>
