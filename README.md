@@ -18,7 +18,7 @@ My app also works in both portrait and landscape modes.
 
 ## Authors
 
-Nabeel Saleem
+Nabeel
 
 ## Demo Video
 
