@@ -18,7 +18,7 @@ My app also works in both portrait and landscape modes.
 
 ## Authors
 
-Nabeel Saleem ([nabeelsaleem@berkeley.edu](mailto:nabeelsaleem@berkeley.edu))
+Nabeel Saleem
 
 ## Demo Video
 
